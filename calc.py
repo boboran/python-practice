@@ -4,6 +4,3 @@ if temp >= 1 and temp <= 100:
     print("not ugly")
 else:
     print("ugly")
-
-
-vjl
