@@ -1,0 +1,5 @@
+print("go big or go home")
+print('___________')
+print('|   python tuandui   |')
+print('|  MMMM   |')
+print('___________')
