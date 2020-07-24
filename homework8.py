@@ -7,3 +7,4 @@ while True:
     else:
         print('支付数字不合法，请重新输入')
     pw_str = input('支付宝支付密码：')
+    pw_num = int(pw_str)
